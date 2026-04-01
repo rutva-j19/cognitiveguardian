@@ -55,5 +55,3 @@ To run this project, you will need to add the following environment variables to
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
-# 🌟 About the Developer
-Developed by Vardaan Mehandiratta, a Computer Engineering student at the University of Waterloo. This project represents a convergence of embedded systems and healthcare software, specifically engineered to mitigate hospital-induced complications through non invasive monitoring.
